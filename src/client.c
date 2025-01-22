@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Starting server...\n");
+  printf("Starting client...\n");
   return 0;
 }

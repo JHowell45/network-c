@@ -10,3 +10,4 @@ set(SRC ${CMAKE_CURRENT_SOURCE_DIR}/src)
 # Executables
 ###############################################
 add_executable(server ${SRC}/server.c)
+add_executable(client ${SRC}/client.c)
